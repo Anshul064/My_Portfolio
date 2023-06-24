@@ -1,1 +1,4 @@
-# My_Protfolio
+# My_Portfolio
+
+# Components used 
+. HTML .CSS(BOOTSTRAP) 
